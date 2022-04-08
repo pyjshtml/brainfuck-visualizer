@@ -24,3 +24,5 @@ More information:
 
 ### Demo
 <http://fatiherikli.github.io/brainfuck-visualizer>
+
+RIP Fatih Erikli
